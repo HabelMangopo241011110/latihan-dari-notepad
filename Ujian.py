@@ -1,5 +1,6 @@
-class LatihanUjian:
-    def __init__(self):
-        print("Sistem siap digunakan!")
+a = 10
+b = 30 
 
-tes = LatihanUjian()
+c = a * b
+
+print(c)
